@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Learning Recomendation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profil">Profil</string>
+    <string name="nama">Nama</string>
+    <string name="jawaban_nama">Nama mu</string>
+    <string name="gender">Gender</string>
+    <string name="Gender">Laki-Laki/Perempuan</string>
+    <string name="email">Email</string>
+    <string name="jawaban_email">Email ku</string>
+    <string name="nomor_absen">Nomor Absen</string>
+    <string name="nomor_ku">Nomor ku</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamat_ku">Alamat ku</string>
+    <string name="learning_brief">Learning Type</string>
+    <string name="learning_type"><b>Learning Style</b></string>
+    <string name="learning_description">Ada berbagai jenis gaya belajar yang digunakan oleh orang-orang untuk mempelajari hal-hal baru. Berikut adalah beberapa contoh gaya belajar:\n\n<b>1. Visual:</b> Pembelajar belajar dengan baik melalui penglihatan. Mereka lebih suka bantuan visual seperti diagram, grafik, dan video.\n\n<b>2. Auditori:</b> Pembelajar belajar dengan baik melalui pendengaran. Mereka lebih suka ceramah, diskusi, dan rekaman audio.\n\n<b>3. Kinestetik:</b> Pembelajar belajar dengan baik melalui melakukan. Mereka lebih suka aktivitas praktik seperti eksperimen dan simulasi.\n\n<b>Learning Type Test:</b>\n\nUntuk menentukan Learning Style apa yang cocok dengan kamu, maka kamu bisa menjawab pertanyaan ini dan menentukan cara belajar baru yang efektif.</string>
+    <string name="visual_learners">1. Visual learners learn best by seeing things. They prefer visual aids such as diagrams, charts, and videos.</string>
+    <string name="pertanyaan"><b>Bagaimanakah cara yang kamu sukai ketika belajar dan merasakan bahwa itu hal yang efektif?</b>\n\nJelaskan menggunakan 2 kalimat atau lebih!</string>
+    <string name="login">login</string>
+    <string name="do_you_haven_t_an_account">do you haven an account</string>
+    <string name="register">register</string>
+    <string name="akun_login">Login Account</string>
+    <string name="textinput_email_warning" translatable="false">Invalid Email</string>
+    <string name="password_minimum_character">Password kurang dari 8 karakter</string>
+    <string name="password">Password</string>
+    <string name="invalid_password">Password is not valid</string>
+    <string name="error_email_is_not_valid">Email is not valid</string>
+    <string name="user_not_found">User not found</string>
+    <string name="email_created">Email has created</string>
+    <string name="email_must_valid">Email must Valid</string>
+    <string name="error_password_min_8_char">Password kurang dari 8 karakter</string>
+    <string name="name">Penulis</string>
+    <string name="description">Pengumuman</string>
+    <string name="upload">Kirim Ceritamu</string>
+    <string name="do_you_have_an_account">Do you have an account?&#160;</string>
+    <string name="create_account">Create an Account</string>
+    <string name="photo_story">Photo Story</string>
+    <string name="logout">logout</string>
+    <string name="add_story">Add Story</string>
+    <string name="result_upload">Result Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="please_input_image">Please Input Image</string>
+    <string name="error_empty_description">Description is empty</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="deskripsi">Tulis Ceritamu DIsini Yuk</string>
+    <string name="title_recomendation">Learning Recomendation</string>
+    <string name="deskripsi_visual">
+        Visual merupakan gaya pembelajaran yang menggunakan indra penglihatan atau berfokus pada penglihatan. Sehingga mereka lebih mudah paham dan mengingat materi jika melihat visual materinya.
+\n\nGaya belajar ini mengakses citra visual yang diciptakan maupun diingat misalnya warna, hubungan ruang, potret, mental, dan gambar menonjol. Belajar menggunakan indra mata melalui, mengamati, menggambar, mendemonstrasikan, membaca, menggunakan media dan alat peraga.
+<b>Ciri-ciri gaya belajar Visual:</b>
+\n\n
+1.Lebih suka melihat atau membaca teks yang berisi gambar, diagram, bagan, grafik, foto, dan sejenisnya.
+\n2.Sering mencatat dengan menggunakan pensil, pulpen, maupun spidol aneka warna. Sebab mereka cenderung lebih mudah mengingat sesuatu jika tampil dengan warna-warna yang beragam.
+\n3.Apa yang mereka lihat cenderung lebih mudah diingat, jadi kejadian apapun yang bisa mereka lihat maka mereka akan mengingatnya seketika itu juga.
+\n4.Lebih menyukai materi pembelajaran yang didemonstrasikan. Baik secara langsung maupun menonton video demo.
+\n\n
+<b>Rekomendasi Belajar:</b>
+\n1.Belajar lewat video pembelajaran yang dibuat kreatif dan menarik.
+\n2.Belajar dari buku atau membaca buku yang disertai dengan gambar ilustrasi.
+\n3.Lebih suka membuat catatan doodle untuk menulis kembali apa yang disampaikan guru, dosen, maupun teman.
+\n4.Mencatat menggunakan pulpen aneka warna, sebab mereka bisa lebih mudah mengingat dan memahami materi jika ditulis dengan warna yang beragam. Sehingga catatan mereka terlihat menarik secara visual.
+    </string>
+    <string name="deskripsi_auditory">
+Auditori merupakan gaya pembelajaran yang menggunakan pendengaran. Artinya, orang dengan gaya pembelajaran ini akan memahami suatu hal dan mengingatnya ketika mendengar tentang penjelasannya. \n\nApapun yang didengar kemudian cenderung mudah untuk diingat dan mudah untuk dipahami. Gaya belajar melalui cara mendengar,menyimak, berbicara, presentasi, mengemukakan pendapat,gagasan, menanggapi, dan berargumentasi. \n\n
+<b>Ciri-ciri gaya belajar Auditori:</b> \n\n
+\n1.Cenderung lebih menyukai mendengarkan penjelasan suatu materi dibandingkan membaca atau menulis materi tersebut.
+\n2.Suka bicara dengan diri sendiri saat belajar agar mudah diingat, jadi mereka cenderung membaca keras apa yang dipelajari.
+\n3.Saat membaca biasanya sambil mengeluarkan suara, sehingga tidak pernah atau sangat jarang membaca dalam hati.
+\n4.Memiliki kemampuan verbal yang baik, sehingga saat menjelaskan sesuatu secara lisan cara mereka menjelaskan bisa dikatakan sangat baik. Ingatan mereka lebih tajam jika mendengar suatu informasi.
+\n\n
+<b>Rekomendasi Belajar:</b> \n
+\n1.Mendengarkan guru atau dosen di kelas saat menjelaskan materi pembelajaran.
+\n2.Merekam apa yang dijelaskan oleh guru dan dosen, kemudian memutar rekaman saat belajar.
+\n3.Jika membaca cenderung dibaca dengan lantang secara lisan.
+
+    </string>
+    <string name="deskripsi_kinestetik">
+        Kinestetik merupakan gaya pembelajaran yang menuntut pelakunya untuk mempraktekan langsung materi pembelajaran tersebut. Gaya belajar jenis kinestetik membuat seseorang terlihat aktif, dan kemudian mampu memiliki banyak keterampilan. Hanya saja, orang kinestetik sifatnya tidak bisa tenang, dalam artian tidak bisa diminta duduk dengan tenang di kelas sambil membaca buku. \n\nSeseorang lebih suka menangani, bergerak, menyentuh dan merasakan atau mengalami sendiri gerakan tubuh (aktivitas fisik).  Bagi siswa kinestetik belajar itu haruslah mengalami dan melakukan dan menuntut pelakunya untuk mempraktekan langsung materi pembelajaran tersebut. \n\n
+<b>Ciri-ciri gaya belajar Kinestetik:</b> \n\n
+1.Cenderung lebih mudah paham materi dengan gerakan, sehingga belajar melalui gerakan langsung atau praktik langsung.
+\n2.Menyukai pembelajaran dengan praktik langsung sebagaimana yang dijelaskan sebelumnya.
+\n3.Menyukai dan menikmati aktivitas apapun yang melibatkan gerak tubuh, termasuk dalam pembelajaran. Sehingga menyukai pelajaran yang langsung praktek seperti olahraga, komputer, seni tari, dan lain-lain.
+\n4.Menyukai kegiatan eksperimen, seperti melakukan percobaan di laboratorium maupun percobaan di lapangan secara langsung.
+\n5.Kebanyakan suka berjalan-jalan saat menghafalkan suatu materi pembelajaran. \n\n
+
+<b>Rekomendasi Belajar:</b>\n\n
+1. Belajar menghafalkan dan memahami suatu materi dengan jalan-jalan sambil membaca buku.
+\n2. Belajar ilmu komputer dengan praktek langsung mengoperasikan komputer.
+\n3. Belajar ilmu olahraga dengan cara praktek langsung melakukan jenis olahraga tertentu yang sedang dipelajari.
+\n4. Belajar suatu keahlian, kemudian melakukan praktek langsung
+
+
+    </string>
+    <string name="learning_style_question"><b>Learning Style Question</b></string>
+
+
+</resources>
